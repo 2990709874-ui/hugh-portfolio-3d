@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14213d"/><stop offset="1" stop-color="#0a0e16"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="900" height="620" fill="url(#g)"/>
+  <g fill="none" stroke="#f4f1ea" stroke-opacity=".22"><path d="M120 160h180v86H120zM360 100h180v86H360zM600 160h180v86H600zM260 370h180v86H260zM520 370h180v86H520z"/><path d="M300 203h60M540 143h60M450 186v184M440 413h80"/></g>
+  <g filter="url(#glow)"><circle cx="210" cy="203" r="44" fill="#ffd166"/><circle cx="450" cy="143" r="44" fill="#06d6a0"/><circle cx="690" cy="203" r="44" fill="#ef476f"/><circle cx="350" cy="413" r="44" fill="#118ab2"/><circle cx="610" cy="413" r="44" fill="#f4f1ea"/></g>
+  <text x="80" y="545" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="54" font-weight="800">SOURCE → RECALL → VALIDATION</text>
+  <text x="82" y="585" fill="#ffd9b3" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">MODEL TRAINING DATA PIPELINE</text>
+</svg>

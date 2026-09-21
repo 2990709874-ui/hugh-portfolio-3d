@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#0b1020"/>
+  <g opacity=".24" stroke="#f4f1ea"><path d="M110 150h680M110 280h680M110 410h680"/><path d="M170 80v450M330 80v450M490 80v450M650 80v450"/></g>
+  <g font-family="Arial, sans-serif" font-weight="800"><rect x="115" y="110" width="250" height="92" rx="18" fill="#ef476f"/><text x="140" y="168" font-size="34" fill="#0b1020">ERROR</text><rect x="410" y="210" width="280" height="92" rx="18" fill="#ffd166"/><text x="438" y="268" font-size="34" fill="#0b1020">ATTRIBUTION</text><rect x="250" y="355" width="360" height="92" rx="18" fill="#06d6a0"/><text x="282" y="413" font-size="34" fill="#0b1020">TARGETED DATA</text></g>
+  <g fill="none" stroke="#ffd9b3" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M365 156c96-5 103 40 45 88"/><path d="M690 256c82 60 58 112-80 145"/><path d="M404 238l6 6-11 2M614 394l-4 7-9-8"/></g>
+  <text x="70" y="552" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="52" font-weight="800">40+ BENCHMARKS</text>
+  <text x="73" y="590" fill="#ffd9b3" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">EVALUATION-DRIVEN DATA GENERATION</text>
+</svg>

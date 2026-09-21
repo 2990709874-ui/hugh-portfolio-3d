@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <rect width="900" height="620" fill="#111827"/>
+  <g fill="none" stroke="#f4f1ea" stroke-opacity=".24" stroke-width="3"><path d="M150 180c180-120 370-120 550 0M150 440c180 120 370 120 550 0M170 180v260M730 180v260"/></g>
+  <g font-family="Arial, sans-serif" font-weight="900"><circle cx="180" cy="180" r="72" fill="#ffd166"/><text x="139" y="194" font-size="36" fill="#111827">KOL</text><circle cx="720" cy="180" r="72" fill="#ef476f"/><text x="681" y="194" font-size="34" fill="#111827">LLM</text><circle cx="180" cy="440" r="72" fill="#06d6a0"/><text x="132" y="454" font-size="33" fill="#111827">SET</text><circle cx="720" cy="440" r="72" fill="#118ab2"/><text x="671" y="454" font-size="32" fill="#111827">OUT</text></g>
+  <g fill="none" stroke="#ffd9b3" stroke-width="8" stroke-linecap="round"><path d="M252 180h390M252 440h390M180 252v116M720 252v116"/></g>
+  <text x="120" y="330" fill="#f4f1ea" font-family="Arial, sans-serif" font-size="58" font-weight="900">WORKFLOW DIAGNOSIS</text>
+  <text x="122" y="374" fill="#ffd9b3" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">GOLDEN SET · PROMPT · QUALITY FUNNEL</text>
+</svg>
